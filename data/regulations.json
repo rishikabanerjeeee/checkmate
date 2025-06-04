@@ -1,0 +1,41 @@
+{
+  "GDPR": {
+    "description": "General Data Protection Regulation (EU)",
+    "clauses": {
+      "GDPR_1": "Personal data must be processed lawfully, fairly and transparently.",
+      "GDPR_2": "Data must be collected for specified, explicit and legitimate purposes.",
+      "GDPR_3": "Data collection must be limited to what is necessary for processing.",
+      "GDPR_4": "Personal data must be accurate and kept up to date.",
+      "GDPR_5": "Data must not be kept longer than necessary.",
+      "GDPR_6": "Data must be processed securely using appropriate technical measures."
+    }
+  },
+  "DPDP": {
+    "description": "Digital Personal Data Protection Act (India)",
+    "clauses": {
+      "DPDP_1": "Personal data can be processed only for lawful purpose.",
+      "DPDP_2": "Data fiduciaries must ensure accuracy and completeness of data.",
+      "DPDP_3": "Data must not be retained beyond necessary period.",
+      "DPDP_4": "Data principals have right to access their personal data.",
+      "DPDP_5": "Significant data fiduciaries must appoint data protection officer."
+    }
+  },
+  "APRA": {
+    "description": "Australian Prudential Regulation Authority Standards",
+    "clauses": {
+      "APRA_1": "Banks must maintain adequate capital adequacy ratios.",
+      "APRA_2": "Risk management frameworks must be comprehensive and appropriate.",
+      "APRA_3": "Information security controls must protect customer data.",
+      "APRA_4": "Business continuity plans must be tested regularly."
+    }
+  },
+  "CCPA": {
+    "description": "California Consumer Privacy Act (US)",
+    "clauses": {
+      "CCPA_1": "Consumers have the right to know what personal data is collected.",
+      "CCPA_2": "Consumers can opt-out of sale of personal data.",
+      "CCPA_3": "Businesses must provide equal service to consumers who exercise privacy rights.",
+      "CCPA_4": "Personal information must be adequately protected."
+    }
+  }
+}
