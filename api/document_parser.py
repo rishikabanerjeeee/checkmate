@@ -3,9 +3,9 @@ import os
 import sqlite3
 from datetime import datetime
 from typing import List, Dict, Optional, Union
-from PyPDF2 import PdfReader
+from PyPDF2 import PdfReader 
 from docx import Document
-from dotenv import load_dotenv
+from dotenv import load_dotenv 
 
 # Load environment variables
 load_dotenv()
